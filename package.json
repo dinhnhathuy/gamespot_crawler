@@ -1,0 +1,19 @@
+{
+  "name": "game-hc-crawler",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.24.0",
+    "cheerio": "^1.0.0-rc.10",
+    "dayjs": "^1.10.7",
+    "firebase": "^9.6.3",
+    "firebase-admin": "^10.0.1",
+    "sleep-promise": "^9.1.0"
+  }
+}
