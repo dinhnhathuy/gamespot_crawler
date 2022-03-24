@@ -1,2 +1,15 @@
 # Dependency directories
 node_modules/
+
+package-lock.json
+
+yarn.lock
+
+# ignore firebase api file
+serviceAccountKey.json
+
+# ignore data file
+src/data.json
+
+# crawl option
+options/*
